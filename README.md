@@ -1,14 +1,14 @@
 ## Heyy, Eu sou Amanda Torres 
 
-👩🏾‍🎓 Estudante de Análise e desenvolvimento de sistemas
-💻 Aprendendo Bootstrap
-📚 Aprendendo Inglês
-📖 Ler 
-🎨 Desenhar
-🎮 Jogar
-🎧 Músicas
-✈ Viajar
-⏳ Futura desenvolvedora full-stack 
+- 👩🏾‍🎓 Estudante de Análise e desenvolvimento de sistemas
+- 💻 Aprendendo Bootstrap
+- 📚 Aprendendo Inglês
+- 📖 Ler 
+- 🎨 Desenhar
+- 🎮 Jogar
+- 🎧 Músicas
+- ✈ Viajar
+- ⏳ Futura desenvolvedora full-stack 
 
 ##
 
