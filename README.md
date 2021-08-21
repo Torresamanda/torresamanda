@@ -1,7 +1,7 @@
 ## Heyy, Eu sou Amanda Torres 
 
 - 👩🏾‍🎓 Estudante de Análise e desenvolvimento de sistemas
-- 💻 Aprendendo Bootstrap
+- 💻 Aprendendo Javascript
 - 📚 Aprendendo Inglês
 - 📖 Ler 
 - 🎨 Desenhar
