@@ -1,10 +1,8 @@
-## Bem vindo ao meus projetos!
+## Hello!
 
 - 👩🏾‍🎓 Estudante de Análise e desenvolvimento de sistemas
-- 💻 Aprendendo React
+- 💻 Aprendendo React & python
 - 📚 Aprendendo Inglês
-- 📖 Ler 
-- 🎨 Desenhar
 - ⏳ Analista Jr. de Solution Engineer
 
 ##
@@ -13,9 +11,9 @@
   <a href="https://github.com/torresamanda">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=torresamanda&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torresamanda&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
+</div></br></br>
   
-<div align="center">
+<div>
   <img align="center" alt="Amanda-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Amanda-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Amanda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
