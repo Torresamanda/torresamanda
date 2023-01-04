@@ -21,7 +21,7 @@
   <img align="center" alt="Amanda-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> -
   <img align="center" alt="Amanda-sass" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> -
   <img align="center" alt="Amanda-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="right" alt="AmandaTorres" height ="180" widht="240" src="https://media.giphy.com/media/DEmjD80eqvfaeOYNdR/giphy.gif">
+<!--   <img align="right" alt="AmandaTorres" height ="180" widht="240" src="https://media.giphy.com/media/DEmjD80eqvfaeOYNdR/giphy.gif"> -->
 </div>
   
  ##
