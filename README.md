@@ -1,9 +1,9 @@
 ## Hello!
 
 - 👩🏾‍🎓 Estudante de Análise e desenvolvimento de sistemas - Graduação em 2023
-- 💻 Aprendendo React & python
+- 💻 Aprendendo React 
 - 📚 Aprendendo Inglês
-- ⏳ Analista Jr. de Solution Engineer na Rocky.Monks
+- ⏳ Analista Jr. de Solution Engineer na Media.Monks
 
 ##
 
