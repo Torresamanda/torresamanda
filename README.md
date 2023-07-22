@@ -1,7 +1,7 @@
 ## Hello!
 
 - 👩🏾‍🎓 Estudante de Análise e desenvolvimento de sistemas - Graduação em 2023
-- 💻 Aprendendo React 
+- 💻 Aprendendo Next & TypeScript
 - 📚 Aprendendo Inglês
 - ⏳ Analista Jr. de Solution Engineer na Media.Monks
 
