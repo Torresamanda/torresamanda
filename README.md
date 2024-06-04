@@ -4,7 +4,7 @@
 - 👩🏾‍🎓 Em andamento Pós graduação em desenvolvimento Full Stack 
 - 💻 Aprendendo Next.js & TypeScript
 - 📚 Aprendendo Inglês
-- 
+  
 ##
 
 <div align="center">
