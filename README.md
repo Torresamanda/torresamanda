@@ -1,10 +1,10 @@
 ## Hello!
 
-- 👩🏾‍🎓 Estudante de Análise e desenvolvimento de sistemas - Graduação prevista para 2023
+- 👩🏾‍🎓 Tecnóloga em Analise e desenvolvilmento de sistemas
+- 👩🏾‍🎓 Em andamento Pós graduação em desenvolvimento Full Stack 
 - 💻 Aprendendo Next.js & TypeScript
 - 📚 Aprendendo Inglês
-- 📚 Aprendendo Espanhol
-
+- 
 ##
 
 <div align="center">
