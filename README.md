@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é Amanda!
 
-Desenvolvedora Front-End há quase 5 anos, especializada no ecossistema React, Next.js e Node.js, uno design e código ao criar as interfaces no Figma antes de dar vida aos projetos. Sou movida pelo desenvolvimento de soluções eficientes, priorizando sempre um código limpo e organizado.
+Desenvolvedora Front-End há mais de 4 anos, especializada no ecossistema React, Next.js e Node.js, uno design e código ao criar as interfaces no Figma antes de dar vida aos projetos. Sou movida pelo desenvolvimento de soluções eficientes, priorizando sempre um código limpo e organizado.
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
