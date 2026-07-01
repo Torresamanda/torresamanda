@@ -21,11 +21,11 @@ Desenvolvedora Front-End há mais de 4 anos, especializada no ecossistema React,
 <p align="left">
   💌 Meus contatos:
   </br></br>
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:amandakaia@hotmail.co" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
+  <a href="mailto:amandakaia@hotmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:amandakaia@hotmail.com" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/torresamandab/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/torresamandab/" alt="LinkedIn"/></a>
-  <a href="#" title="Instagram">
+  <a href="https://www.instagram.com/torresinline/" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/torresinline/" alt="Instagram"/></a>
 </p>
   
